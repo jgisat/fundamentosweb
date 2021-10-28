@@ -1,0 +1,68 @@
+/* agregamos color de fondo para las etiquetas de maquetacion */
+body {
+  background-color: darkslateblue;
+}
+.contenedor {
+  background-color: darkgray;
+}
+header {
+  background-color: darkorchid;
+}
+nav {
+  background-color: darkgreen;
+}
+section {
+  background-color: white;
+}
+footer {
+  background-color: yellowgreen;
+}
+/* Agregamos un borde de tipo dotted */
+.borde1 {
+  border-style: dotted;
+}
+
+/*agregamos un borde de tipo dashed */
+.borde2 {
+  border-style: dashed;
+}
+
+/*agregamos un borde de tipo solid */
+.borde3 {
+  border-style: solid;
+}
+
+/*agregamos un borde de tipo double */
+.borde4 {
+  border-style: double;
+}
+
+/*agregamos un borde de tipo groove */
+.borde5 {
+  border-style: groove;
+}
+
+/*agregamos un borde de tipo ridge */
+.borde6 {
+  border-style: ridge;
+}
+
+/*agregamos un borde de tipo inset */
+.borde7 {
+  border-style: inset;
+}
+
+/*agregamos un borde de tipo outset */
+.borde8 {
+  border-style: outset;
+}
+
+/*agregamos un borde de tipo none */
+.borde9 {
+  border-style: none;
+}
+
+/*agregamos un borde de tipo hidden */
+.borde10 {
+  border-style: hidden;
+}
